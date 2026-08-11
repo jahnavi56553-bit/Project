@@ -3,5 +3,3 @@ pandas
 numpy
 plotly
 scikit-learn
-base64
-os
